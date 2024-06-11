@@ -4,14 +4,13 @@
 .grid-2{
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    column-gap: 100px;
 }
 
 .courier-prime-regular {
     font-family: "Courier Prime", monospace;
     font-weight: 400;
     font-style: normal;
-  }
+}
   
 
 body{
