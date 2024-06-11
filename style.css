@@ -4,8 +4,6 @@
 .grid-2{
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    margin-left: 300px;
-    margin-right: 300px;
 }
 
 .courier-prime-regular {
